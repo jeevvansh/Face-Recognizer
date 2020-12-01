@@ -3,7 +3,7 @@ Face recognition program built using Local Binary Patters Histograms. Included i
 
 You can choose to use either the python (.py) or the jupyter notebook (.ipynb) file, both are included in this repository
 
-#IMPORTANT!!
+!!IMPORTANT!!
 Please make sure to change the filepaths("C:\\...) for cascade_path, path_train, and path_test to their corresponding locations in your computer once you download them or else the program will not work, the filepaths curently in the code are for my own computer. I have included comments where those changes are necessary and I have also included where to find those files.
 
 
