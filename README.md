@@ -18,4 +18,4 @@ Included in the Face Recognition folder:
 
 When you run this code, you will get an output window, which displays the predicted outputs for test images. You can press the Space or X button to keep looping. There are three different people in the test images. The output for the first person, Dwight, looks like the following:
 
-
+![](Facial%20Recognition/sample_prediction_1.PNG)
